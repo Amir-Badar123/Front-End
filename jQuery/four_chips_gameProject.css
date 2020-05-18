@@ -1,0 +1,12 @@
+.board button{
+width: 80px;
+height: 80px;
+margin: 1px;
+background-color: gray;
+border-radius: 50%;
+border: 4px solid black;
+}
+h3{
+  text-decoration-color: red;
+  font-style: italic;
+}
